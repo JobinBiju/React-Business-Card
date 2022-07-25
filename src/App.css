@@ -1,0 +1,76 @@
+.App {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #23252c;
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-family: Inter, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  height: 91vh;
+  width: 280px;
+  background-color: #1a1b21;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  align-self: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card > h5,
+h6 {
+  font-weight: 200;
+}
+
+.card > h6 {
+  color: bisque;
+}
+
+.dp {
+  object-fit: contain;
+  overflow: hidden;
+  width: 280px;
+}
+
+.content {
+  width: 250px;
+  align-items: flex-start;
+  padding: 10px;
+}
+
+.c-title {
+  font-weight: 700;
+}
+
+.c-text {
+  font-weight: 100;
+  font-size: 12px;
+  justify-content: safe;
+}
+
+.footer {
+  background-color: #161619;
+  height: 60px;
+  width: 280px;
+  align-self: baseline;
+  border-radius: 0 0 16px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
