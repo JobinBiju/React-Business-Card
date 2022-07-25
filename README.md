@@ -1,6 +1,10 @@
 # React Business Card
 
-## Getting Started with Create React App
+### UI
+
+<img src = './src/assets/ui.png' width = '280px'>
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
