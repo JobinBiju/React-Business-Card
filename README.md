@@ -2,7 +2,7 @@
 
 ### UI
 
-<img src = './src/assets/ui.png' width = '280px'>
+<img src = './src/assets/ui-i.png' width = '280px'>
 
 ### Getting Started with Create React App
 
